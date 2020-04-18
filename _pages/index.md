@@ -9,8 +9,12 @@ title: Welcome to Freddie's website
 
 This website was set up during the **coronavirus lockdown**. this webstite constists of post of stunning pictures to updates on life for Fredddie Yeo in the covid-19 crisis. Please enjoy this webstie and the regular posts and improvements which comes with it. <span style='font-size:20px;'>&#128077;</span>
 
-<span style='font-size:20px;'>{% include entypo/mouse.svg %}</span>
-
+<p class="d-flex align-items-center">
+    <span class="icon grey mr-2">
+        {% include entypo/mouse.svg %}
+    </span>
+    A clock icon in grey left-aligned
+</p>
 
 <hr />
 
