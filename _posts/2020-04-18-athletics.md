@@ -1,5 +1,5 @@
 ---
-title:  How to use Multiple Images in a Carousel
+title:  Athletics
 tags:
   - Athletics
 ---
