@@ -1,10 +1,7 @@
 ---
-title:  How to use Multiple Images in a Masonry-style layout
+title:  Multiple Images in a Masonry-style layout
 tags:
-  - Friday Theme
-  - HTML
   - images
-  - Markdown
   - Liquid
   - Image Gallery
 images:
