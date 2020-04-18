@@ -7,11 +7,10 @@ title: Welcome to Freddie's website
 
 ## What is it?
 
-My website
+This website was set up during the **coronavirus lockdown**. this webstite constists of post of stunning pictures to updates on life for Fredddie Yeo in the covid-19 crisis. Please enjoy this webstie and the regular posts and improvemens whch comes with it :)
 
-## How to use it
 
-Read the posts
+
 
 <hr />
 
