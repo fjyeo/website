@@ -13,7 +13,6 @@ This website was set up during the **coronavirus lockdown**. this webstite const
     <span class="icon grey mr-2">
         {% include entypo/mouse.svg %}
     </span>
-    A clock icon in grey left-aligned
 </p>
 
 <hr />
