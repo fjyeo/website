@@ -10,14 +10,18 @@ tags:
 Hi, i hope you are enjoying this website. Today I am going to do a book review of His Dark Materials book 1 Northen Lights by Philip Pullman.
 
 
-<div class="card mb-3">
+<div class='row'>
+  <div class='col-4'>
+    <div class="card mb-3">
     <img class="card-img-top" src="https://images-na.ssl-images-amazon.com/images/I/81gINJEuyUL.jpg"/>
-    <div class="card-body bg-light">
-        <div class="card-text">
-            Northen Lights by philip Pullman.
-        </div>
-    </div>
+<!--       <div class="card-body bg-light"> -->
+<!--         <div class="card-text"> -->
+<!--             Northen Lights by philip Pullman. -->
+<!--         </div> -->
+<!--       </div> -->
+  </div>
 </div>
+
 
 ### Story line so far
 
