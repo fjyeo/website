@@ -13,11 +13,6 @@ Hi, i hope you are enjoying this website. Today I am going to do a book review o
 
 <div class="card mb-3">
     <img class="card-img-top" src="https://images-na.ssl-images-amazon.com/images/I/81gINJEuyUL.jpg"/>
-    <div class="card-body bg-light">
-        <div class="card-text">
-            Northen Lights by philip Pullman.
-        </div>
-    </div>
 </div>
 
 ### Story line so far
