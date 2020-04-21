@@ -44,6 +44,3 @@ images:
     })
   })
 </script>
-```python
-print('here')
-```
