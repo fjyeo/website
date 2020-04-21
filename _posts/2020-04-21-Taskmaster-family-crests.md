@@ -15,3 +15,32 @@ images:
   - https://images.unsplash.com/photo-1500370414137-9201565cf099?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=95e700b9e28eb7ed7b5769c823741126&auto=format&fit=crop&w=668&q=80
   - https://images.unsplash.com/photo-1500402448245-d49c5229c564?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=f19c590b253f803a7f9b643c59017160&auto=format&fit=crop&w=1650&q=80
 ---
+
+<div class="card-columns">
+    {% for img in page.images %}
+    <div class="card" data-toggle="modal" data-target="#exampleModal" data-img="{{ img }}">
+        <img class="card-img-top" src="{{ img }}" />
+    </div>
+    {% endfor %}
+</div>
+
+<div class="modal fade" id="exampleModal">
+  <div class="modal-dialog modal-lg modal-dialog-centered">
+    <div class="modal-content">
+      <div class="modal-body">
+        <img class="modal-img w-100" />
+      </div>
+    </div>
+  </div>
+</div>
+
+<script type="text/javascript">
+  $(document).ready(function() {
+    $('#exampleModal').on('show.bs.modal', function (event) {
+      var button = $(event.relatedTarget)
+      var img = button.data('img')
+      var modal = $(this)
+      modal.find('.modal-img').attr('src', img)
+    })
+  })
+</script>
