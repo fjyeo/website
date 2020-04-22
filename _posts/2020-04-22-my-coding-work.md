@@ -1,12 +1,12 @@
 ---
-title: cute animal pics
+title: Python code work
 tags:
   - code
   - python
   - jupyter
 ---
 
-### An example of a code
+### An example of code
 
 {% highlight python %}
 class Employee:
