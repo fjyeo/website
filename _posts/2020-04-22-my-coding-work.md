@@ -34,6 +34,6 @@ This is what you return to the computer so it can give you the answer.
 
 This is the answer the computer gives you. 
 
-Thankyou for cntinuing to look at my website.
+Thank you for continuing to look at my website.
 Bye
 
