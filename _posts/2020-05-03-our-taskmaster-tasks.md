@@ -14,4 +14,4 @@ Power point of our taskmaster tasks to <a href="https://www.dropbox.com/s/coffc6
 
 <iframe src="https://drive.google.com/viewerng/viewer?
 url=https://www.dropbox.com/s/mzto2atkbyg57mu/TM%20slide.pdf?dl=1&
-pid=explorer&efh=false&a=v&chrome=false&embedded=true" width="400px" height="300px"/>
+pid=explorer&efh=false&a=v&chrome=false&embedded=true" width="600px" height="450px"/>
